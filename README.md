@@ -25,11 +25,6 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 <br />
 <br />
 
-## NEW
-![Metrics](https://raw.githubusercontent.com/Christiano112/Christiano112/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/Christiano112/Christiano112/github-metrics/notable.svg)
-![Coding habits](https://raw.githubusercontent.com/Christiano112/Christiano112/github-metrics/habits.svg)
-![Achievements](https://raw.githubusercontent.com/Christiano112/Christiano112/github-metrics/achievements.svg)
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christiano112&show_icons=true&include_all_commits=true&hide_border=true" alt="Christiano's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiano112&langs_count=8&layout=compact&hide_border=true" alt="Christiano GitHub stats" /> |
 | ------------- | ------------- |
