@@ -27,6 +27,4 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christiano112&show_icons=true&include_all_commits=true&hide_border=true" alt="Christiano's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiano112&langs_count=8&layout=compact&hide_border=true" alt="Christiano GitHub stats" /> |
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
-
