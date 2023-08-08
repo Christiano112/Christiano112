@@ -5,13 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=Christiano112&style=white&color=blue" alt="Profile View Counter"/>
 </div>
 
-I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, and web engineering. I build useful [open-source projects](https://github.com/Christiano112) and am an active member of technical communities...
+I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, and web engineering. I build practical [open-source projects](https://github.com/Christiano112) and am an active member of technical communities...
 
 **Here's a quick summary about me**:
 
-- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning NextJs, TypeScript, Vuejs, and Testing
-- 😊 I’m looking for help with open-source projects, hackathons, and mid-level opportunities.
+- 💡 Fun fact: I graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently learning NextJs, TypeScript, Vuejs, and TDD
+- 😊 I’m seeking help with open-source projects, hackathons, and mid-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior or mid-level).
 - 📫 You can [view my resume](https://resume.io/r/OVLWve7Tx) and contact me by emailing enyiachristian12@gmail.com.
 
