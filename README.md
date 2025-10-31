@@ -48,7 +48,7 @@ I’m a frontend & mobile engineer (now moving into backend) focused on building
 <br />
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Christiano112&show_icons=true&include_all_commits=true&hide_border=true" alt="Christiano's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiano112&langs_count=8&layout=compact&hide_border=true" alt="Christiano GitHub stats" /> | 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Christiano112&show_icons=true&include_all_commits=true&hide_border=true" alt="Christiano's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christiano112&langs_count=8&layout=compact&hide_border=true" alt="Christiano GitHub stats" />
 <br />
 
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Christiano112&layout=compact&hide_border=true" alt="Christiano112" /> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Christiano112&layout=compact&hide_border=true" alt="Christiano112" />
